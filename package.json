@@ -1,0 +1,14 @@
+{
+  "name": "ld37",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "electron ."
+  },
+  "author": "Lord Squirrel",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^1.4.12"
+  }
+}
